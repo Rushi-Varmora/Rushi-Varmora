@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rushi-Varmora
-- 👀 I’m interested in AI/ML and mobile/web app development,
-- 🌱 I’m currently exploring the field of big data and Blockchain technologies,
-- 💞️ I’m looking to collaborate on android/web app development projects also intrested in learning cloud and blockchain apps.
+- 👀 I’m interested in AI/ML and Software development,
+- 🌱 I’m currently exploring the field of AI/ML , Data Science and big data ,
+- 💞️ I’m looking to collaborate on Web development projects also intrested in learning cloud and blockchain apps.
 - 📫 How to reach me - My email - rushi.varmora@gmail.com  LinkedIn - https://www.linkedin.com/in/rushi-varmora-936ab7125/
 
 <!---
